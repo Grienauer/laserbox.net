@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 616.7 336.7" style="enable-background:new 0 0 616.7 336.7">
+ <g style="fill:none;stroke-miterlimit:10;stroke:#000;stroke-linejoin:round;stroke-width:16">
+  <path d="m308.4 88.4l-140-60.1-140 60.1 140 59.9z"/>
+  <path d="m448.4 188.3l-140 60 140 60 140-60"/>
+  <path d="m448.4 28.3l-140.1 60.1"/>
+  <path d="m168.4 308.3l140.3-60.1"/>
+  <path d="m28.4 88.4v159.9l140 60v-160"/>
+  <path d="m588.4 88.3l-140-60v160l140 60z"/>
+ </g>
+</svg>

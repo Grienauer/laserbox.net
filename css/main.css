@@ -1,0 +1,62 @@
+main {
+  max-width: 22em;
+  padding: 1em 1.5em;
+  margin: 50vh auto 0;
+  transform: translateY(-50%);
+  box-sizing: border-box;
+  color: #000;
+  text-align: center;
+}
+
+h1, a {
+  margin: 1em 0 0 0;
+  font-size: 13px;
+  font-weight: 300;
+}
+
+.logo {
+  max-width: 10em;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+a:active, a:hover {
+  color: #ccc;
+}
+
+body {
+  background: #fff;
+  font: 100%/1.5 sans-serif;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
+
+.laserbox-line {
+  fill: none;
+  stroke-miterlimit: 10;
+  stroke: #000;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-width: 16;
+  stroke-dasharray: 760;
+  stroke-dashoffset: 760;
+  animation: logo__drawline 2s 1s ease forwards;
+}
+
+@keyframes logo__drawline {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.notfound {}
+.notfound h2 {
+  margin: 0 0 10px 0;
+}
+.notfound p {
+  margin: 0 0 20px 0;
+  font-size: 13px;
+}

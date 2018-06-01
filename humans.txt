@@ -1,0 +1,10 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Nico Grienauer -- Design/HTML -- @grienauer
+
+# THANKS
+
+    Florian Fida
